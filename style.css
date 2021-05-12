@@ -1,0 +1,101 @@
+body {
+  background-color: rgb(251, 204, 209);
+  font-family:'Inter', sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(100, 150, 250);
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+h2 {
+  padding: 10px;
+  text-align: center;
+  color: rgb(100, 150, 250);
+  font-size: 20px;
+}
+
+li {
+  text-align: center;
+  color: lightblue;
+  list-style-type: none;
+}
+
+p {
+  color: rgb(100, 150, 250);
+  padding: 10px;
+  text-align: center;
+  height: 80px;
+  width: 400spx;
+  margin: 0 auto;
+}
+
+li {
+  font-size: 100px;
+  color: orange;
+}
+
+a {
+  font-size: 50px;
+  font-weight: bold;
+  color: orange;
+}
+
+#pic {
+  padding: 15px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px grey;
+  margin: 0 auto;
+  border-radius: 300px 300px 150px;
+}
+
+#pic1 {
+  padding: 15px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px grey;
+  margin: 0 auto;
+  border-radius: 300px 300px 150px;
+}
+
+#pic2 {
+  padding: 15px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px grey;
+  margin: 0 auto;
+  border-radius: 300px 300px 150px;
+}
+
+#pic3 {
+  padding: 15px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px grey;
+  margin: 0 auto;
+  border-radius: 300px 300px 150px;
+}
+
+#pic4 {
+  padding: 15px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px grey;
+  margin: 0 auto;
+  border-radius: 300px 300px 150px;
+}
+
+#pic5 {
+  padding: 15px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px grey;
+  margin: 0 auto;
+  border-radius: 300px 300px 150px;
+}
